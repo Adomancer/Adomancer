@@ -26,7 +26,10 @@ Open to full-time, freelance, and collaboration.
 ### // connect
 
 <p align="left">
-  <a href="https://samuelmanalu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://samuelmanalu.my.id/">
+<a href="https://samuelmanalu.my.id/">
+  <img src="https://raw.githubusercontent.com/Adomancer/New-Porto/main/app/icon.svg" width="20" height="20" hspace="4" alt="Portfolio Logo"/><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square" alt="Portfolio" />
+</a>
   <a href="https://www.linkedin.com/in/samuel-jagar-manalu"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=Adomancer&style=flat-square&color=0d1117&label=profile+views" alt="profile views" />
 </p>
